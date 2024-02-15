@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "SNVHEZ58S2.com.example.deeplinkCookbook",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
