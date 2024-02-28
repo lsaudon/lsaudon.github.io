@@ -4,7 +4,7 @@
       "details": [
       {
         "appID": "SNVHEZ58S2.com.example.deeplinkCookbook",
-        "paths": ["*"]
+        "paths": ["/activate_my_solution"]
       }
     ]
   }
