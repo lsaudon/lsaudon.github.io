@@ -1,10 +1,15 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
+    "details": [
       {
-        "appID": "G44LD5AV6Y.fr.lsaudon.deeplinkCookbook2",
-        "paths": ["/details"]
+        "appIDs": [
+          "G44LD5AV6Y.fr.lsaudon.deeplinkCookbook2"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
     ]
   }
