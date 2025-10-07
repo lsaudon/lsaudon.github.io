@@ -1,0 +1,53 @@
+# Lucas Saudon - Développeur Flutter Freelance
+
+## À propos
+Lucas Saudon est un développeur Flutter freelance basé à Lyon, France, avec plus de 7 ans d'expérience dans le développement mobile. Il se spécialise dans la création d'applications mobiles performantes et fiables, en utilisant des méthodes de développement piloté par les tests (TDD) et l'intégration continue (CI/CD).
+
+## Services
+- Développement d'applications mobiles sur mesure avec Flutter
+- Intégration de cartes et géolocalisation
+- Ajout de notifications push
+- Implémentation de feature flags
+- Mise en place de solutions de monitoring
+- Déploiement sur les stores iOS et Android
+
+## Compétences techniques
+- Flutter
+- Dart
+- Développement mobile
+- iOS
+- Android
+- Test Driven Development (TDD)
+- Intégration continue (CI/CD)
+- Géolocalisation et cartographie
+- Notifications push
+- Feature flags
+- Monitoring d'applications
+
+## Expérience
+Plus de 7 ans d'expérience dans le développement mobile, avec une expertise particulière en Flutter et en méthodes agiles de développement.
+
+## Clients
+Lucas a travaillé avec plusieurs entreprises reconnues :
+- beta.gouv.fr
+- mylight150
+- Milliman France
+- Evoluflor
+- ECO SI
+- Ocea Smart Building
+- Enedis
+
+## Localisation
+Basé à Lyon, France, Lucas propose ses services dans toute la France.
+
+## Contact
+- Email: lsaudon@protonmail.com
+- LinkedIn: https://www.linkedin.com/in/lsaudon
+- GitHub: https://github.com/lsaudon
+- Site web: https://lsaudon.fr
+
+## Approche
+En tant que freelance, Lucas s'engage à fournir des solutions sur mesure pour répondre aux besoins spécifiques de ses clients. Que ce soit pour le développement d'une nouvelle application, l'amélioration d'une application existante, ou la mise en place de processus de développement efficaces, il aide ses clients à atteindre leurs objectifs.
+
+## Date de création de l'activité
+L'activité freelance de Lucas a été créée le 1er janvier 2019.
