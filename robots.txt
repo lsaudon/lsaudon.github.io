@@ -1,11 +1,26 @@
 # robots.txt pour https://lsaudon.fr/
+# Site de Lucas Saudon - Développeur Flutter Freelance
 
 User-agent: *
 Allow: /
+
+# Pages principales autorisées
+Allow: /index.html
+Allow: /faq.html
+
+# Fichiers techniques autorisés
+Allow: /sitemap.xml
+Allow: /robots.txt
+Allow: /llms.txt
 
 # (Optionnel) Si tu veux bloquer certaines zones techniques :
 # Disallow: /admin/
 # Disallow: /tmp/
 
-# Indique ton sitemap (utile même pour un site one-page)
+# Sitemap pour l'indexation
 Sitemap: https://lsaudon.fr/sitemap.xml
+
+# Informations sur le site
+# Site: https://lsaudon.fr
+# Propriétaire: Lucas Saudon
+# Dernière mise à jour: 2025-01-27

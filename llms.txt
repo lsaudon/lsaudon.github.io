@@ -40,6 +40,26 @@ Lucas a travaillé avec plusieurs entreprises reconnues :
 ## Localisation
 Basé à Lyon, France, Lucas propose ses services dans toute la France.
 
+## Structure du site web
+Le site web de Lucas Saudon (https://lsaudon.fr) comprend :
+- Page d'accueil (index.html) : Présentation, services, clients et contact
+- Page FAQ (faq.html) : Questions fréquemment posées sur le développement Flutter
+- Sitemap XML pour l'indexation
+- Balisage JSON-LD Schema.org pour l'optimisation SEO
+
+## Questions fréquemment posées
+Les questions les plus courantes incluent :
+- Qu'est-ce que Flutter et pourquoi l'utiliser ?
+- Combien coûte le développement d'une application Flutter ?
+- Combien de temps faut-il pour développer une application mobile ?
+- Flutter est-il adapté à tous types d'applications ?
+- Comment se déroule un projet de développement d'application ?
+- Proposez-vous un support après la livraison ?
+- Quelles sont les technologies utilisées par Lucas Saudon ?
+- Où se trouve Lucas Saudon et travaille-t-il à distance ?
+- Comment puis-je obtenir un devis pour mon projet ?
+- Quels types d'applications avez-vous déjà développées ?
+
 ## Contact
 - Email: lsaudon@protonmail.com
 - LinkedIn: https://www.linkedin.com/in/lsaudon
@@ -51,3 +71,6 @@ En tant que freelance, Lucas s'engage à fournir des solutions sur mesure pour r
 
 ## Date de création de l'activité
 L'activité freelance de Lucas a été créée le 1er janvier 2019.
+
+## Dernière mise à jour
+Site web mis à jour le 27 janvier 2025 avec une nouvelle structure incluant une page FAQ dédiée.

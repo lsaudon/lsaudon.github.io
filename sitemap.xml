@@ -5,9 +5,17 @@
   <!-- Page principale -->
   <url>
     <loc>https://lsaudon.fr/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <!-- Page FAQ -->
+  <url>
+    <loc>https://lsaudon.fr/faq.html</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>
