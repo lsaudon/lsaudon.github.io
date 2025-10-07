@@ -1,0 +1,11 @@
+# robots.txt pour https://lsaudon.fr/
+
+User-agent: *
+Allow: /
+
+# (Optionnel) Si tu veux bloquer certaines zones techniques :
+# Disallow: /admin/
+# Disallow: /tmp/
+
+# Indique ton sitemap (utile même pour un site one-page)
+Sitemap: https://lsaudon.fr/sitemap.xml
